@@ -130,10 +130,6 @@ Since the address is 4305-A Lemmon, I decided to start searching it starting wit
 
 ![cc_photo8](THE_FORGOTTEN_FILES_PHOTOS/the_citrus_conspiracy/cc_photo8.png)
 
-**Attempt 5:**
-
-![cc_photo9](THE_FORGOTTEN_FILES_PHOTOS/the_citrus_conspiracy/cc_photo9.png)
-
 I found one! I checked the newspaper and saw that the address near it was Kentucky Fried Chicken (KFC).
 
 ![cc_photo10](THE_FORGOTTEN_FILES_PHOTOS/the_citrus_conspiracy/cc_photo10.png)
