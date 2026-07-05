@@ -84,7 +84,7 @@ When searching, it's better to add quotation marks to your searches.
 
 ![hh_photo8](THE_FORGOTTEN_FILES_PHOTOS/a_hitman's_hobby/hh_photo8.png)
 
-After a bit of digging I found this phrase: "Tommy Gibbs has a hobby of watch making."
+After a bit of digging, I found this phrase: "Tommy Gibbs has a hobby of watch making."
 
 ![hh_photo9](THE_FORGOTTEN_FILES_PHOTOS/a_hitman's_hobby/hh_photo9.png)
 ![hh_photo10](THE_FORGOTTEN_FILES_PHOTOS/a_hitman's_hobby/hh_photo10.png)
