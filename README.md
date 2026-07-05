@@ -112,7 +112,7 @@ I got a number. Now all I had to do was search for a nearby place.
 
 Since this is the same newspaper archiving site as the last challenge, I also did the quoting search thing.
 
-Since the address is 4305-A Lemmon I decided to start searching it starting with 4300 and increment it by 1 to see if there was a business nearby.
+Since the address is 4305-A Lemmon, I decided to start searching it starting with 4300 and increment it by 1 to see if there was a business nearby.
 
 **Attempt 1:**
 
